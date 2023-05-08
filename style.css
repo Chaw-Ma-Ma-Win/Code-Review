@@ -46,14 +46,14 @@ body {
   .bottom-line {
     margin-top: 26px;
   }
-  
+/*   item part */
   h1, h2 {
     font-family: Impact;
   }
   
   .item p {
     display: inline-block;
-    margin-top: 5px;
+    margin-top: 6px;
     margin-bottom: 5px;
     font-size: 18px;
   }

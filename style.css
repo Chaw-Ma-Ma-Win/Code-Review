@@ -21,6 +21,10 @@ body {
   h1, h2, p {
     text-align: center;
   }
+
+  h1, h2 {
+    font-family: Impact;
+  }
   
   .menu {
     width: 80%;
@@ -45,10 +49,6 @@ body {
   
   .bottom-line {
     margin-top: 25px;
-  }
-  
-  h1, h2 {
-    font-family: Impact;
   }
   
   .item p {
